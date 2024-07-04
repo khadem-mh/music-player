@@ -2,7 +2,7 @@
 
 ## Description Project
 
-__*Note: Any copying of this file and publishing it with a different appearance and putting it as a sample of your work will be prosecuted*__
+__*`Note: Any copying of this file and publishing it with a different appearance and putting it as a sample of your work will be prosecuted`*__
 
 I want to show you a relatively large and extremely challenging project that has more than 1000 lines of JavaScript code.
 
