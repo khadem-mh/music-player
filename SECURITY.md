@@ -1,8 +1,3 @@
 # Security Policy
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 2.0.x   | :white_check_mark: |
-| 1.0.x   | :x:                |
-| 2.1.x   | :white_check_mark: |
-| > 1.0   | :x:                |
+Note: Any copying of this file and publishing it with a different appearance and putting it as a sample of your work will be prosecuted
