@@ -30,6 +30,8 @@ But for the work sample, I decided only for JavaScript, instead of duplicate sit
 
 ## View of the project
 
+check this [URL](https://khadem-mh.github.io/music-player/) for visit this page
+
 <img src="./public/img/1.png" alt="view" width="800px">
 <img src="./public/img/2.png" alt="view" width="800px">
 <img src="./public/img/3.png" alt="view" width="800px">
